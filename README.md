@@ -19,7 +19,13 @@ A high-performance, enterprise-level implementation of the classic "Hello World"
 
 ## 🛠 Installation
 
-why the f would u mate?
+# Clone the repository
+git clone https://github.com/Yohann30Elias/Hello-World
+cd Hello-World
+
+# Reason for Installation
+
+why the f would u mate? idk
 
 # Run with Python interpreter
-python interpreter.py main.bf
+python interpreter.py
